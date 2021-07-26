@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+#classCard {
+  text-align: center;
+  color: white;
+  background: #43464B;
+  border: rgb(0, 0, 0) solid 2px;
+  width: 15rem;
+  display: inline-grid;
+  margin: 1rem 2rem;
+  border-radius: 5px;
+}

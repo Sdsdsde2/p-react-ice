@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import TextCompoents from './components/TextComponents';
+import ClassComponent from './components/ClassComponent'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
           Welcome to Shane's React Playground
         </p>
         <TextCompoents />
+        <ClassComponent />
       </header>
     </div>
   );
